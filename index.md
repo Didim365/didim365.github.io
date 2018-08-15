@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## 안녕하세요. Didim365 입니다.
 
-You can use the [editor on GitHub](https://github.com/Didim365/didim365.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+이 곳은 클라우드 전문 기업 Didim365에서 제공하는 공개 프로그램과 예제 소스를 모아놓은 공간 입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Didim365/didim365.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- SMS 발송 웹 서비스 예제 소스
